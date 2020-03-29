@@ -1,7 +1,7 @@
 import argparse
 import datetime
 
-#function to solve the maze using backtracking
+'''function to solve the maze using backtracking'''
 def solveMaze(r, c):
     #if destination is reached
     if (r==SIZE-1) and (c==SIZE-1):
