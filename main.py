@@ -13,6 +13,8 @@ import datetime
 
 
 def maze_solver( r, c ):
+    if maze[SIZE-1][SIZE-1] == 0:
+        return False
     if (r==SIZE-1) and (c==SIZE-1):#if destination is reached
         solution[r][c] = 1;
         return True
