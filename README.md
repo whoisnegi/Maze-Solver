@@ -3,7 +3,7 @@
 ## _Python project to solve maze contained in a text file_.
 
 Program takes the input and output file name as command-line arguments.
-Using the square matrix present in the input file it should generate a path to reach the end of the maze and put it in the output file.
+Using the square matrix present in the input file it would generate a path to reach the end of the maze and put it in the output file.
 ***
 
 **Technologies Involve**
