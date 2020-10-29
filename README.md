@@ -7,7 +7,7 @@ Using the square matrix present in the input file it would generate a path to re
 ***
 
 **Technologies Involve**
->Project is created with `Python3.8.2` using [argparse](https://docs.python.org/3/library/argparse.html) module
+>Project is created with `Python3.8.2` using [argparse](https://docs.python.org/3/library/argparse.html) module.
 >Implemented `DFS` algorithm.
 
 
